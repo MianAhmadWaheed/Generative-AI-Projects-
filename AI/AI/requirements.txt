@@ -1,0 +1,5 @@
+Flask
+whisper
+deepgram-sdk
+youtube-dl
+ffmpeg-python
