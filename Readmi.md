@@ -4,6 +4,13 @@ Welcome to the **AI Poetry Generator**! 🌟 This FastAPI-based web application 
 
 ---
 
+# Overview 🚀
+<img width="632" alt="AI P2 1" src="https://github.com/user-attachments/assets/db2aa8c0-e223-4b1a-805b-1a4bae9c0b66" />
+<img width="619" alt="AI P2 2" src="https://github.com/user-attachments/assets/19721708-11f8-4a94-9582-db19b967b767" />
+
+---
+
+
 ## 🚀 Features
 - 🎤 **Generate Roman Urdu poetry** based on a seed text.
 - 🧠 **LSTM-based deep learning model** for text generation.
