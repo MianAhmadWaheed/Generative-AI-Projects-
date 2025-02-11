@@ -1,8 +1,8 @@
-# AI Multitask Platform
+# AURASPEAK -- AI Multitask Platform
 
 ## 🚀 Overview
-<img width="956" alt="AI 1" src="https://github.com/user-attachments/assets/6711da57-de6d-4e81-af83-6fc70a1ffa5a" />
-<img width="935" alt="YT 1" src="https://github.com/user-attachments/assets/d71a1769-bf6a-4ac2-adb8-7ac8770d11f8" />
+
+<img width="946" alt="W-1" src="https://github.com/user-attachments/assets/4552fe4e-cb54-4f18-ad14-4babba9bf752" />
 
 
 The **AI Multitask Platform** is an advanced speech processing and transcription system built with Python and Flask. It supports multiple AI-driven tasks, including:
@@ -70,7 +70,9 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 
-The server will start at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+The server will start at: [http://127.0.0.1:7860](http://127.0.0.1:7860)
+* Running on public URL: https://2f753fc62d32b935e1.gradio.live
+
 
 ## 🎯 API Endpoints
 ### 📢 Transcribe Audio
@@ -104,8 +106,9 @@ POST /text-to-speech
 - Convert input text to an audio file.
 
 ## 📷 Screenshots
-<img src="docs/screenshot1.png" width="600" alt="Audio to Text Demo">
-<img src="docs/screenshot2.png" width="600" alt="YouTube to Text Demo">
+<img width="929" alt="W-2" src="https://github.com/user-attachments/assets/b11ac4f6-d0be-45ae-b19e-9984630d0574" />
+<img width="919" alt="W-3" src="https://github.com/user-attachments/assets/b8ef6540-947e-43fc-a5e4-f4c2f2a5fd95" />
+<img width="902" alt="W-4" src="https://github.com/user-attachments/assets/65e2111b-f4d9-47e4-898a-0cf4d57073d6" />
 
 ## 📜 License
 This project is licensed under the MIT License.
